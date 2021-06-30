@@ -36,9 +36,18 @@ background-color:#00878F;
 padding:8px;
 text-align:center;
 }
+div#footer
+{
+display: block;
+bottom: 0;
+height: 50px;
+position: absolute;
+width: 100%;
+text-align: center;
+}
 a:link {color:white;}      /* unvisited link */
 a:visited {color:white;}  /* visited link */
 a:hover {color:orange;}  /* mouse over link */
 a:active {color:white;}  /* selected link */
 
-Visit http://progettiarduino.com
+
